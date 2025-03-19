@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Steven_Leeww\\source\\repos\\CraftShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EA20BB-132A-4E62-859D-4B2133AD471E}|CraftShop.Website\\CraftShop.Website.csproj|c:\\users\\steven_leeww\\source\\repos\\craftshop\\craftshop.website\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0EA20BB-132A-4E62-859D-4B2133AD471E}|CraftShop.Website\\CraftShop.Website.csproj|solutionrelative:craftshop.website\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EA20BB-132A-4E62-859D-4B2133AD471E}|CraftShop.Website\\CraftShop.Website.csproj|c:\\users\\steven_leeww\\source\\repos\\craftshop\\craftshop.website\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0EA20BB-132A-4E62-859D-4B2133AD471E}|CraftShop.Website\\CraftShop.Website.csproj|solutionrelative:craftshop.website\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EA20BB-132A-4E62-859D-4B2133AD471E}|CraftShop.Website\\CraftShop.Website.csproj|c:\\users\\steven_leeww\\source\\repos\\craftshop\\craftshop.website\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0EA20BB-132A-4E62-859D-4B2133AD471E}|CraftShop.Website\\CraftShop.Website.csproj|solutionrelative:craftshop.website\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Steven_Leeww\\source\\repos\\CraftShop\\CraftShop.Website\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CraftShop.Website\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Steven_Leeww\\source\\repos\\CraftShop\\CraftShop.Website\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CraftShop.Website\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T02:51:03.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Steven_Leeww\\source\\repos\\CraftShop\\CraftShop.Website\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "CraftShop.Website\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Steven_Leeww\\source\\repos\\CraftShop\\CraftShop.Website\\Pages\\Index.cshtml",
+              "RelativeToolTip": "CraftShop.Website\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T02:25:17.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Steven_Leeww\\source\\repos\\CraftShop\\CraftShop.Website\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "CraftShop.Website\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Steven_Leeww\\source\\repos\\CraftShop\\CraftShop.Website\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "CraftShop.Website\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:24:56.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

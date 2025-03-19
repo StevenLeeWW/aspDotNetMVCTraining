@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CraftShop.Website.props" />
+</Project>

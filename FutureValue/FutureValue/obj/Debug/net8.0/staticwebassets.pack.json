@@ -1,0 +1,2313 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\alert.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\alert.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\alert.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\alert.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\base-component.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\base-component.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\base-component.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\base-component.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\button.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\button.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\button.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\button.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\carousel.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\carousel.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\carousel.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\collapse.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\collapse.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\collapse.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\dom\\data.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\dom\\data.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\dom\\data.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\dom\\data.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\dom\\event-handler.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\dom\\event-handler.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\dom\\event-handler.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\dom\\event-handler.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\dom\\manipulator.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\dom\\manipulator.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\dom\\manipulator.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\dom\\manipulator.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\dom\\selector-engine.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\dom\\selector-engine.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\dom\\selector-engine.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\dom\\selector-engine.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\dropdown.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\dropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\dropdown.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\dropdown.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\modal.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\modal.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\modal.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\modal.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\offcanvas.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\offcanvas.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\offcanvas.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\offcanvas.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\popover.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\popover.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\popover.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\popover.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\scrollspy.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\scrollspy.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\scrollspy.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\scrollspy.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\tab.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\tab.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\tab.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\tab.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\toast.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\toast.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\toast.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\toast.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\tooltip.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\tooltip.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\tooltip.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\util\\backdrop.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\util\\backdrop.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\util\\backdrop.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\util\\backdrop.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\util\\component-functions.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\util\\component-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\util\\component-functions.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\util\\component-functions.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\util\\config.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\util\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\util\\config.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\util\\config.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\util\\focustrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\util\\focustrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\util\\focustrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\util\\focustrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\util\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\util\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\util\\index.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\util\\index.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\util\\sanitizer.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\util\\sanitizer.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\util\\sanitizer.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\util\\sanitizer.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\util\\scrollbar.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\util\\scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\util\\scrollbar.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\util\\scrollbar.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\util\\swipe.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\util\\swipe.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\util\\swipe.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\util\\swipe.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\util\\template-factory.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\util\\template-factory.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\dist\\util\\template-factory.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\dist\\util\\template-factory.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\index.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\index.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\index.umd.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\index.umd.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\src\\alert.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\alert.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\src\\base-component.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\base-component.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\src\\button.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\button.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\src\\carousel.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\src\\collapse.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\src\\dom\\data.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\dom\\data.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\src\\dom\\event-handler.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\dom\\event-handler.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\src\\dom\\manipulator.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\dom\\manipulator.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\src\\dom\\selector-engine.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\dom\\selector-engine.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\src\\dropdown.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\dropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\src\\modal.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\modal.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\src\\offcanvas.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\offcanvas.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\src\\popover.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\popover.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\src\\scrollspy.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\scrollspy.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\src\\tab.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\tab.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\src\\toast.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\toast.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\src\\tooltip.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\src\\util\\backdrop.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\util\\backdrop.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\src\\util\\component-functions.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\util\\component-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\src\\util\\config.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\util\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\src\\util\\focustrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\util\\focustrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\src\\util\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\util\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\src\\util\\sanitizer.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\util\\sanitizer.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\src\\util\\scrollbar.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\util\\scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\src\\util\\swipe.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\util\\swipe.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\js\\src\\util\\template-factory.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\src\\util\\template-factory.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\license",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\package-lock.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\package.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\readme.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\readme.md"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_maps.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_maps.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_placeholders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_variables-dark.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_variables-dark.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_focus-ring.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_focus-ring.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_icon-link.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_icon-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-mode.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_color-mode.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation-unobtrusive\\package.json",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation-unobtrusive\\readme.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\readme.md"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ar.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ar.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ar.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_az.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_az.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_az.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_az.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_bg.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_bg.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_bg.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_bg.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_bn_bd.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_bn_bd.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_bn_bd.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_bn_bd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ca.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ca.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ca.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ca.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_cs.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_cs.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_cs.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_cs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_da.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_da.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_da.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_da.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_de.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_de.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_de.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_de.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_el.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_el.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_el.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_el.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_es.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_es.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es_ar.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_es_ar.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es_ar.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_es_ar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es_pe.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_es_pe.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es_pe.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_es_pe.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_et.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_et.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_et.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_et.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_eu.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_eu.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_eu.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_eu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fa.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_fa.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fa.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_fa.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fi.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_fi.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fi.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_fi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_fr.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fr.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_fr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ge.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ge.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ge.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ge.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_gl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_gl.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_gl.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_gl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_he.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_he.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_he.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_he.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hi.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_hi.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hi.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_hi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_hr.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hr.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_hr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hu.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_hu.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hu.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_hu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hy_am.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_hy_am.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hy_am.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_hy_am.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_id.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_id.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_id.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_id.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_is.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_is.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_is.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_is.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_it.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_it.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_it.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_it.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ja.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ja.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ja.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ja.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ka.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ka.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ka.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ka.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_kk.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_kk.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_kk.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_kk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ko.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ko.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ko.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ko.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_lt.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_lt.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_lt.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_lt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_lv.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_lv.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_lv.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_lv.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_mk.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_mk.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_mk.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_mk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_my.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_my.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_my.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_my.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_nl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_nl.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_nl.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_nl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_no.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_no.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_no.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_no.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_pl.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pl.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_pl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pt_br.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_pt_br.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pt_br.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_pt_br.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pt_pt.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_pt_pt.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pt_pt.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_pt_pt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ro.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ro.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ro.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ro.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ru.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ru.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ru.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ru.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sd.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sd.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sd.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_si.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_si.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_si.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_si.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sk.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sk.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sk.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sl.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sl.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sr.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sr.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sr_lat.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sr_lat.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sr_lat.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sr_lat.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sv.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sv.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sv.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sv.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_th.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_th.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_th.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_th.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_tj.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_tj.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_tj.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_tj.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_tr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_tr.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_tr.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_tr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_uk.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_uk.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_uk.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_uk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ur.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ur.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ur.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ur.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_vi.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_vi.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_vi.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_vi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_zh.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_zh.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_zh.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_zh.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_zh_tw.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_zh_tw.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_zh_tw.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_zh_tw.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_de.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_de.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_de.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_de.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_es_cl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_es_cl.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_es_cl.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_es_cl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_fi.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_fi.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_fi.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_fi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_it.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_it.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_it.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_it.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_nl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_nl.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_nl.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_nl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_pt.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_pt.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_pt.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_pt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\package.json",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery-validation\\readme.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\readme.md"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\authors.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\authors.txt"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\bower.json",
+      "PackagePath": "staticwebassets\\lib\\jquery\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\external\\sizzle\\dist\\sizzle.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\external\\sizzle\\dist\\sizzle.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\external\\sizzle\\dist\\sizzle.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\external\\sizzle\\dist\\sizzle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\external\\sizzle\\dist\\sizzle.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\external\\sizzle\\dist\\sizzle.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\external\\sizzle\\license.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\external\\sizzle\\license.txt"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\package.json",
+      "PackagePath": "staticwebassets\\lib\\jquery\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\readme.md",
+      "PackagePath": "staticwebassets\\lib\\jquery\\readme.md"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\ajax.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\ajax\\jsonp.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\jsonp.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\ajax\\load.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\load.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\ajax\\script.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\ajax\\var\\location.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\var\\location.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\ajax\\var\\nonce.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\var\\nonce.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\ajax\\var\\rquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\var\\rquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\ajax\\xhr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\xhr.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\attributes.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\attributes.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\attributes\\attr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\attributes\\attr.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\attributes\\classes.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\attributes\\classes.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\attributes\\prop.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\attributes\\prop.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\attributes\\support.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\attributes\\support.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\attributes\\val.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\attributes\\val.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\callbacks.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\callbacks.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\core.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\core\\access.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\access.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\core\\camelcase.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\camelcase.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\core\\domeval.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\domeval.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\core\\init.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\init.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\core\\isattached.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\isattached.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\core\\nodename.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\nodename.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\core\\parsehtml.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\parsehtml.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\core\\parsexml.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\parsexml.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\core\\ready-no-deferred.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\ready-no-deferred.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\core\\ready.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\ready.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\core\\readyexception.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\readyexception.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\core\\stripandcollapse.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\stripandcollapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\core\\support.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\support.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\core\\totype.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\totype.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\core\\var\\rsingletag.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\var\\rsingletag.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\css.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\css\\addgethookif.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\addgethookif.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\css\\adjustcss.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\adjustcss.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\css\\curcss.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\curcss.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\css\\finalpropname.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\finalpropname.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\css\\hiddenvisibleselectors.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\hiddenvisibleselectors.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\css\\showhide.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\showhide.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\css\\support.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\support.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\css\\var\\cssexpand.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\var\\cssexpand.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\css\\var\\getstyles.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\var\\getstyles.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\css\\var\\ishiddenwithintree.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\var\\ishiddenwithintree.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\css\\var\\rboxstyle.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\var\\rboxstyle.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\css\\var\\rnumnonpx.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\var\\rnumnonpx.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\css\\var\\swap.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\var\\swap.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\data.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\data.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\data\\data.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\data\\data.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\data\\var\\acceptdata.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\data\\var\\acceptdata.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\data\\var\\datapriv.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\data\\var\\datapriv.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\data\\var\\datauser.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\data\\var\\datauser.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\deferred.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\deferred.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\deferred\\exceptionhook.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\deferred\\exceptionhook.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\deprecated.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\deprecated.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\deprecated\\ajax-event-alias.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\deprecated\\ajax-event-alias.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\deprecated\\event.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\deprecated\\event.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\dimensions.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\dimensions.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\effects.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\effects.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\effects\\animatedselector.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\effects\\animatedselector.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\effects\\tween.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\effects\\tween.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\event.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\event.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\event\\focusin.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\event\\focusin.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\event\\support.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\event\\support.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\event\\trigger.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\event\\trigger.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\exports\\amd.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\exports\\amd.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\exports\\global.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\exports\\global.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\manipulation.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\manipulation\\_evalurl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\_evalurl.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\manipulation\\buildfragment.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\buildfragment.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\manipulation\\getall.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\getall.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\manipulation\\setglobaleval.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\setglobaleval.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\manipulation\\support.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\support.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\manipulation\\var\\rscripttype.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\var\\rscripttype.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\manipulation\\var\\rtagname.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\var\\rtagname.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\manipulation\\wrapmap.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\wrapmap.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\offset.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\offset.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\queue.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\queue.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\queue\\delay.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\queue\\delay.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\selector-native.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\selector-native.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\selector-sizzle.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\selector-sizzle.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\selector.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\selector.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\serialize.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\serialize.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\traversing.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\traversing.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\traversing\\findfilter.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\traversing\\findfilter.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\traversing\\var\\dir.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\traversing\\var\\dir.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\traversing\\var\\rneedscontext.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\traversing\\var\\rneedscontext.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\traversing\\var\\siblings.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\traversing\\var\\siblings.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\var\\arr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\arr.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\var\\class2type.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\class2type.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\var\\document.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\document.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\var\\documentelement.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\documentelement.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\var\\flat.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\flat.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\var\\fntostring.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\fntostring.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\var\\getproto.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\getproto.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\var\\hasown.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\hasown.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\var\\indexof.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\indexof.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\var\\isfunction.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\isfunction.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\var\\iswindow.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\iswindow.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\var\\objectfunctionstring.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\objectfunctionstring.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\var\\pnum.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\pnum.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\var\\push.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\push.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\var\\rcheckabletype.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\rcheckabletype.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\var\\rcssnum.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\rcssnum.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\var\\rnothtmlwhite.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\rnothtmlwhite.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\var\\slice.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\slice.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\var\\support.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\support.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\var\\tostring.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\tostring.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\jquery\\src\\wrap.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\wrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\dom-utils\\getcommontotalscroll.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\dom-utils\\getcommontotalscroll.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\dom-utils\\getcomputedstyle.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\dom-utils\\getcomputedstyle.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\dom-utils\\getelementclientrect.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\dom-utils\\getelementclientrect.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\dom-utils\\getelementclientrect.test.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\dom-utils\\getelementclientrect.test.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\dom-utils\\gethtmlelementscroll.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\dom-utils\\gethtmlelementscroll.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\dom-utils\\getnodescroll.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\dom-utils\\getnodescroll.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\dom-utils\\getoffsetparent.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\dom-utils\\getoffsetparent.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\dom-utils\\getparentnode.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\dom-utils\\getparentnode.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\dom-utils\\getparentnode.test.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\dom-utils\\getparentnode.test.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\dom-utils\\getscrollparent.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\dom-utils\\getscrollparent.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\dom-utils\\getwindow.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\dom-utils\\getwindow.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\dom-utils\\getwindowscroll.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\dom-utils\\getwindowscroll.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\dom-utils\\getwindowscroll.test.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\dom-utils\\getwindowscroll.test.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\dom-utils\\listscrollparents.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\dom-utils\\listscrollparents.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\enums.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\enums.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\index.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\index.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\index.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\index.js.map",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\index.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\index.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\index.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\index.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\index.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\modifiers\\applystyles.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\modifiers\\applystyles.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\modifiers\\computestyles.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\modifiers\\computestyles.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\modifiers\\computestyles.test.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\modifiers\\computestyles.test.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\modifiers\\index.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\modifiers\\index.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\modifiers\\preventoverflow.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\modifiers\\preventoverflow.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\types.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\types.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\utils\\computeoffsets.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\utils\\computeoffsets.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\utils\\computeoffsets.test.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\utils\\computeoffsets.test.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\utils\\debounce.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\utils\\debounce.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\utils\\expandeventlisteners.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\utils\\expandeventlisteners.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\utils\\expandeventlisteners.test.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\utils\\expandeventlisteners.test.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\utils\\format.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\utils\\format.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\utils\\getaltaxis.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\utils\\getaltaxis.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\utils\\getaltaxis.test.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\utils\\getaltaxis.test.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\utils\\getaltlen.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\utils\\getaltlen.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\utils\\getaltlen.test.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\utils\\getaltlen.test.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\utils\\getbaseplacement.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\utils\\getbaseplacement.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\utils\\getbaseplacement.test.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\utils\\getbaseplacement.test.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\utils\\getmainaxisfromplacement.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\utils\\getmainaxisfromplacement.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\utils\\getoppositeplacement.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\utils\\getoppositeplacement.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\utils\\getvariationplacement.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\utils\\getvariationplacement.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\utils\\getvariationplacement.test.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\utils\\getvariationplacement.test.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\utils\\ordermodifiers.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\utils\\ordermodifiers.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\utils\\unwrapjqueryelement.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\utils\\unwrapjqueryelement.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\cjs\\utils\\validatemodifiers.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\cjs\\utils\\validatemodifiers.js.flow"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\es\\index.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\es\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\es\\index.js.map",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\es\\index.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\es\\index.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\es\\index.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\es\\index.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\es\\index.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\umd\\index.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\umd\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\umd\\index.js.map",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\umd\\index.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\umd\\index.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\umd\\index.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\dist\\umd\\index.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\umd\\index.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\lib\\dom-utils\\getcommontotalscroll.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\lib\\dom-utils\\getcommontotalscroll.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\lib\\dom-utils\\getcomputedstyle.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\lib\\dom-utils\\getcomputedstyle.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\lib\\dom-utils\\getelementclientrect.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\lib\\dom-utils\\getelementclientrect.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\lib\\dom-utils\\gethtmlelementscroll.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\lib\\dom-utils\\gethtmlelementscroll.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\lib\\dom-utils\\getnodescroll.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\lib\\dom-utils\\getnodescroll.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\lib\\dom-utils\\getoffsetparent.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\lib\\dom-utils\\getoffsetparent.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\lib\\dom-utils\\getparentnode.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\lib\\dom-utils\\getparentnode.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\lib\\dom-utils\\getscrollparent.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\lib\\dom-utils\\getscrollparent.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\lib\\dom-utils\\getwindow.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\lib\\dom-utils\\getwindow.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\lib\\dom-utils\\getwindowscroll.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\lib\\dom-utils\\getwindowscroll.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\lib\\dom-utils\\listscrollparents.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\lib\\dom-utils\\listscrollparents.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\lib\\enums.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\lib\\enums.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\lib\\index.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\lib\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\lib\\modifiers\\applystyles.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\lib\\modifiers\\applystyles.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\lib\\modifiers\\computestyles.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\lib\\modifiers\\computestyles.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\lib\\modifiers\\index.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\lib\\modifiers\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\lib\\modifiers\\preventoverflow.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\lib\\modifiers\\preventoverflow.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\lib\\types.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\lib\\types.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\lib\\utils\\computeoffsets.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\lib\\utils\\computeoffsets.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\lib\\utils\\debounce.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\lib\\utils\\debounce.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\lib\\utils\\expandeventlisteners.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\lib\\utils\\expandeventlisteners.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\lib\\utils\\format.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\lib\\utils\\format.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\lib\\utils\\getaltaxis.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\lib\\utils\\getaltaxis.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\lib\\utils\\getaltlen.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\lib\\utils\\getaltlen.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\lib\\utils\\getbaseplacement.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\lib\\utils\\getbaseplacement.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\lib\\utils\\getmainaxisfromplacement.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\lib\\utils\\getmainaxisfromplacement.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\lib\\utils\\getoppositeplacement.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\lib\\utils\\getoppositeplacement.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\lib\\utils\\getvariationplacement.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\lib\\utils\\getvariationplacement.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\lib\\utils\\ordermodifiers.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\lib\\utils\\ordermodifiers.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\lib\\utils\\unwrapjqueryelement.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\lib\\utils\\unwrapjqueryelement.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\lib\\utils\\validatemodifiers.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\lib\\utils\\validatemodifiers.js"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\package.json",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\wwwroot\\lib\\popper.js\\readme.md",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\readme.md"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FutureValue.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FutureValue.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FutureValue.props",
+      "PackagePath": "build\\FutureValue.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FutureValue.props",
+      "PackagePath": "buildMultiTargeting\\FutureValue.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FutureValue.props",
+      "PackagePath": "buildTransitive\\FutureValue.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
