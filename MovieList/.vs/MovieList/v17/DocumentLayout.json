@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Steven_Leeww\\source\\repos\\MovieList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Steven_Leeww\\source\\repos\\MovieList\\MovieList\\Migrations\\20250320044626_Update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieList\\Migrations\\20250320044626_Update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C76E5E1-7D08-4F63-9428-7721821554ED}|MovieList\\MovieList.csproj|c:\\users\\steven_leeww\\source\\repos\\movielist\\movielist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C76E5E1-7D08-4F63-9428-7721821554ED}|MovieList\\MovieList.csproj|solutionrelative:movielist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C76E5E1-7D08-4F63-9428-7721821554ED}|MovieList\\MovieList.csproj|c:\\users\\steven_leeww\\source\\repos\\movielist\\movielist\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C76E5E1-7D08-4F63-9428-7721821554ED}|MovieList\\MovieList.csproj|solutionrelative:movielist\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C76E5E1-7D08-4F63-9428-7721821554ED}|MovieList\\MovieList.csproj|c:\\users\\steven_leeww\\source\\repos\\movielist\\movielist\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C76E5E1-7D08-4F63-9428-7721821554ED}|MovieList\\MovieList.csproj|solutionrelative:movielist\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C76E5E1-7D08-4F63-9428-7721821554ED}|MovieList\\MovieList.csproj|c:\\users\\steven_leeww\\source\\repos\\movielist\\movielist\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C76E5E1-7D08-4F63-9428-7721821554ED}|MovieList\\MovieList.csproj|solutionrelative:movielist\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C76E5E1-7D08-4F63-9428-7721821554ED}|MovieList\\MovieList.csproj|c:\\users\\steven_leeww\\source\\repos\\movielist\\movielist\\views\\movie\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C76E5E1-7D08-4F63-9428-7721821554ED}|MovieList\\MovieList.csproj|solutionrelative:movielist\\views\\movie\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C76E5E1-7D08-4F63-9428-7721821554ED}|MovieList\\MovieList.csproj|c:\\users\\steven_leeww\\source\\repos\\movielist\\movielist\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C76E5E1-7D08-4F63-9428-7721821554ED}|MovieList\\MovieList.csproj|solutionrelative:movielist\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C76E5E1-7D08-4F63-9428-7721821554ED}|MovieList\\MovieList.csproj|c:\\users\\steven_leeww\\source\\repos\\movielist\\movielist\\models\\movielist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C76E5E1-7D08-4F63-9428-7721821554ED}|MovieList\\MovieList.csproj|solutionrelative:movielist\\models\\movielist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C76E5E1-7D08-4F63-9428-7721821554ED}|MovieList\\MovieList.csproj|c:\\users\\steven_leeww\\source\\repos\\movielist\\movielist\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C76E5E1-7D08-4F63-9428-7721821554ED}|MovieList\\MovieList.csproj|solutionrelative:movielist\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C76E5E1-7D08-4F63-9428-7721821554ED}|MovieList\\MovieList.csproj|c:\\users\\steven_leeww\\source\\repos\\movielist\\movielist\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C76E5E1-7D08-4F63-9428-7721821554ED}|MovieList\\MovieList.csproj|solutionrelative:movielist\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C76E5E1-7D08-4F63-9428-7721821554ED}|MovieList\\MovieList.csproj|c:\\users\\steven_leeww\\source\\repos\\movielist\\movielist\\migrations\\20250320044747_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C76E5E1-7D08-4F63-9428-7721821554ED}|MovieList\\MovieList.csproj|solutionrelative:movielist\\migrations\\20250320044747_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Steven_Leeww\\source\\repos\\MovieList\\MovieList\\Views\\Movie\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MovieList\\Views\\Movie\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Steven_Leeww\\source\\repos\\MovieList\\MovieList\\Views\\Movie\\Delete.cshtml",
+              "RelativeToolTip": "MovieList\\Views\\Movie\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T06:54:55.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Steven_Leeww\\source\\repos\\MovieList\\MovieList\\Views\\Movie\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MovieList\\Views\\Movie\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Steven_Leeww\\source\\repos\\MovieList\\MovieList\\Views\\Movie\\Edit.cshtml",
+              "RelativeToolTip": "MovieList\\Views\\Movie\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T03:30:42.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Steven_Leeww\\source\\repos\\MovieList\\MovieList\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieList\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Steven_Leeww\\source\\repos\\MovieList\\MovieList\\Models\\Movie.cs",
+              "RelativeToolTip": "MovieList\\Models\\Movie.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA9wBgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:30:11.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovieList.cs",
+              "DocumentMoniker": "C:\\Users\\Steven_Leeww\\source\\repos\\MovieList\\MovieList\\Models\\MovieList.cs",
+              "RelativeDocumentMoniker": "MovieList\\Models\\MovieList.cs",
+              "ToolTip": "C:\\Users\\Steven_Leeww\\source\\repos\\MovieList\\MovieList\\Models\\MovieList.cs",
+              "RelativeToolTip": "MovieList\\Models\\MovieList.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T01:26:49.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Steven_Leeww\\source\\repos\\MovieList\\MovieList\\Program.cs",
+              "RelativeDocumentMoniker": "MovieList\\Program.cs",
+              "ToolTip": "C:\\Users\\Steven_Leeww\\source\\repos\\MovieList\\MovieList\\Program.cs",
+              "RelativeToolTip": "MovieList\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T05:50:03.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Steven_Leeww\\source\\repos\\MovieList\\MovieList\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieList\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Steven_Leeww\\source\\repos\\MovieList\\MovieList\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MovieList\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T03:17:32.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Steven_Leeww\\source\\repos\\MovieList\\MovieList\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MovieList\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Steven_Leeww\\source\\repos\\MovieList\\MovieList\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MovieList\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:12:36.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\Steven_Leeww\\source\\repos\\MovieList\\MovieList\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "MovieList\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\Steven_Leeww\\source\\repos\\MovieList\\MovieList\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "MovieList\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowDMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T02:53:35.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250320044626_Update.cs",
+              "DocumentMoniker": "C:\\Users\\Steven_Leeww\\source\\repos\\MovieList\\MovieList\\Migrations\\20250320044626_Update.cs",
+              "RelativeDocumentMoniker": "MovieList\\Migrations\\20250320044626_Update.cs",
+              "ToolTip": "C:\\Users\\Steven_Leeww\\source\\repos\\MovieList\\MovieList\\Migrations\\20250320044626_Update.cs",
+              "RelativeToolTip": "MovieList\\Migrations\\20250320044626_Update.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:46:26.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Steven_Leeww\\source\\repos\\MovieList\\MovieList\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "MovieList\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\Steven_Leeww\\source\\repos\\MovieList\\MovieList\\Models\\Genre.cs",
+              "RelativeToolTip": "MovieList\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:19:55.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250320044747_Update.cs",
+              "DocumentMoniker": "C:\\Users\\Steven_Leeww\\source\\repos\\MovieList\\MovieList\\Migrations\\20250320044747_Update.cs",
+              "RelativeDocumentMoniker": "MovieList\\Migrations\\20250320044747_Update.cs",
+              "ToolTip": "C:\\Users\\Steven_Leeww\\source\\repos\\MovieList\\MovieList\\Migrations\\20250320044747_Update.cs",
+              "RelativeToolTip": "MovieList\\Migrations\\20250320044747_Update.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:47:47.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

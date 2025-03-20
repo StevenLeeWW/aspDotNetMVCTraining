@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28963EEE-1553-4CC9-8C5D-D24EC1C6DB52}|FutureValue\\FutureValue.csproj|c:\\users\\steven_leeww\\source\\repos\\futurevalue\\futurevalue\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{28963EEE-1553-4CC9-8C5D-D24EC1C6DB52}|FutureValue\\FutureValue.csproj|solutionrelative:futurevalue\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{28963EEE-1553-4CC9-8C5D-D24EC1C6DB52}|FutureValue\\FutureValue.csproj|c:\\users\\steven_leeww\\source\\repos\\futurevalue\\futurevalue\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{28963EEE-1553-4CC9-8C5D-D24EC1C6DB52}|FutureValue\\FutureValue.csproj|solutionrelative:futurevalue\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -15,16 +11,24 @@
       "RelativeMoniker": "D:0:0:{28963EEE-1553-4CC9-8C5D-D24EC1C6DB52}|FutureValue\\FutureValue.csproj|solutionrelative:futurevalue\\views\\home\\customer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{28963EEE-1553-4CC9-8C5D-D24EC1C6DB52}|FutureValue\\FutureValue.csproj|c:\\users\\steven_leeww\\source\\repos\\futurevalue\\futurevalue\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28963EEE-1553-4CC9-8C5D-D24EC1C6DB52}|FutureValue\\FutureValue.csproj|solutionrelative:futurevalue\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28963EEE-1553-4CC9-8C5D-D24EC1C6DB52}|FutureValue\\FutureValue.csproj|c:\\users\\steven_leeww\\source\\repos\\futurevalue\\futurevalue\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28963EEE-1553-4CC9-8C5D-D24EC1C6DB52}|FutureValue\\FutureValue.csproj|solutionrelative:futurevalue\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28963EEE-1553-4CC9-8C5D-D24EC1C6DB52}|FutureValue\\FutureValue.csproj|c:\\users\\steven_leeww\\source\\repos\\futurevalue\\futurevalue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28963EEE-1553-4CC9-8C5D-D24EC1C6DB52}|FutureValue\\FutureValue.csproj|solutionrelative:futurevalue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{28963EEE-1553-4CC9-8C5D-D24EC1C6DB52}|FutureValue\\FutureValue.csproj|c:\\users\\steven_leeww\\source\\repos\\futurevalue\\futurevalue\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{28963EEE-1553-4CC9-8C5D-D24EC1C6DB52}|FutureValue\\FutureValue.csproj|solutionrelative:futurevalue\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28963EEE-1553-4CC9-8C5D-D24EC1C6DB52}|FutureValue\\FutureValue.csproj|c:\\users\\steven_leeww\\source\\repos\\futurevalue\\futurevalue\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28963EEE-1553-4CC9-8C5D-D24EC1C6DB52}|FutureValue\\FutureValue.csproj|solutionrelative:futurevalue\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28963EEE-1553-4CC9-8C5D-D24EC1C6DB52}|FutureValue\\FutureValue.csproj|c:\\users\\steven_leeww\\source\\repos\\futurevalue\\futurevalue\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{28963EEE-1553-4CC9-8C5D-D24EC1C6DB52}|FutureValue\\FutureValue.csproj|solutionrelative:futurevalue\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,24 +38,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "libman.json",
-              "DocumentMoniker": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\libman.json",
-              "RelativeDocumentMoniker": "FutureValue\\libman.json",
-              "ToolTip": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\libman.json",
-              "RelativeToolTip": "FutureValue\\libman.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-19T08:22:50.496Z",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FutureValue\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FutureValue\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T07:36:42.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FutureValue\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FutureValue\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T06:31:30.051Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Customer.cshtml",
               "DocumentMoniker": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\Views\\Home\\Customer.cshtml",
               "RelativeDocumentMoniker": "FutureValue\\Views\\Home\\Customer.cshtml",
@@ -64,33 +80,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FutureValue\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FutureValue\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-19T07:36:42.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "FutureValue\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "FutureValue\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-19T06:31:30.051Z",
-              "EditorCaption": ""
+              "DocumentIndex": 5,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\libman.json",
+              "RelativeDocumentMoniker": "FutureValue\\libman.json",
+              "ToolTip": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\libman.json",
+              "RelativeToolTip": "FutureValue\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-19T08:22:50.496Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\Program.cs",
+              "RelativeDocumentMoniker": "FutureValue\\Program.cs",
+              "ToolTip": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\Program.cs",
+              "RelativeToolTip": "FutureValue\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T01:02:18.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "FutureValue\\Controllers\\HomeController.cs",
@@ -98,12 +112,11 @@
               "RelativeToolTip": "FutureValue\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T03:18:10.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T03:18:10.955Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Steven_Leeww\\source\\repos\\FutureValue\\FutureValue\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "FutureValue\\Views\\_ViewImports.cshtml",
